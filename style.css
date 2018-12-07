@@ -1,0 +1,8 @@
+.responsive{
+    border: 1px solid #ccc;
+    float: left;
+    margin: 3px 3px 3px 3px;
+}
+.responsive:hover {
+    border: 1px solid #777;
+}
